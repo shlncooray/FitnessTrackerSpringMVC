@@ -16,7 +16,7 @@ xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns
 	
 	<servlet-mapping>
 		<servlet-name>fitTrackerServlet</servlet-name>
-		<url-pattern>*.html</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
 	<display-name>FitnessTracker</display-name>

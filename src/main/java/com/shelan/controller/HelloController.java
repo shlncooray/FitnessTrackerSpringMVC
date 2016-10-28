@@ -12,7 +12,7 @@ public class HelloController {
 		
 		model.addAttribute("greetingMsg", "Hello Shelan Welcome to Spring MVC");
 		
-		return "welcome";
+		return "hello";
 	}
 	
 }
